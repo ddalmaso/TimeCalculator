@@ -1,4 +1,4 @@
-# TimeCalculator - Calcolatrice temporale per date e ore in C++
+# TimeCalculator - Calcolatrice temporale in C++
 
 Progetto di Programmazione ad Oggetti, a.a 2017/2018, del corso di Informatica dell'Università di Padova.
 
