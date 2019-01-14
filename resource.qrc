@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/arrow.png</file>
+        <file>images/date.png</file>
+        <file>images/datetime.png</file>
+        <file>images/time.png</file>
+        <file>images/user_info.png</file>
+        <file>images/current_time.png</file>
+        <file>images/window_icon.png</file>
+    </qresource>
+</RCC>
